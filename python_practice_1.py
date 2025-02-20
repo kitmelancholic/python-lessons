@@ -1,0 +1,1 @@
+﻿print("Oleksii Kostyk, KN-2023")
